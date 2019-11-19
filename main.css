@@ -1,4 +1,6 @@
-
+html {
+	background-color: #d996b7;
+}
 h1, h2 {
     margin: 10px;
 	padding: 20px;
