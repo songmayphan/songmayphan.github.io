@@ -1,10 +1,14 @@
-.html {
+html {
     margin: 0;
-	padding: 0;
+	padding: 20px;
 	border: 0;
+	text-align: center;
 	font-size: 100%;
 	font: Arial;
 	vertical-align: baseline;
 	background-color: #99ccff;
 }
 
+body{
+    background-color: lightblue;
+}
