@@ -15,6 +15,7 @@ header {
 
 body{
     background-color: lightblue;
+	margin: 100px;
 }
 p {
   margin:auto;
