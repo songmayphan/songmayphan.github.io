@@ -15,16 +15,7 @@ header {
 
 body{
     background-color: lightblue;
-	margin: 100px;
-}
-p {
-  margin:auto;
-  text-align: justify;
-}
-
-ul{
-    text-align: justify;
-}
-div{
-  overflow: auto;
+	margin: auto;
+	max-width: 500px;
+	
 }
