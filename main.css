@@ -1,5 +1,4 @@
 div {
-	background-color: #d996b7;
 	padding: 50px;	
 }
 h1, h2 {
@@ -24,7 +23,7 @@ body{
     top: 0;
     width: 100%;
     height: auto;
-    opacity: 0.6;
+    opacity: 0.2;
 	
 }
 
