@@ -1,4 +1,7 @@
 html {
+    background-color: #ff6666;
+}
+header {
     margin: 0;
 	padding: 20px;
 	border: 0;
@@ -11,4 +14,7 @@ html {
 
 body{
     background-color: lightblue;
+}
+p {
+  margin:auto;
 }
