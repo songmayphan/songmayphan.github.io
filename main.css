@@ -1,5 +1,4 @@
 html {
-    background-color: #003566;
 	margin: 100px;
 }
 header {
@@ -14,8 +13,8 @@ header {
 }
 
 body{
-    background-color: lightblue;
+    	background-color: lightblue;
 	margin: auto;
-	max-width: 500px;
+	max-width: 150px;
 	
 }
